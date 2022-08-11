@@ -1,16 +1,14 @@
 # flutter_alcool_gasolina
 
-A new Flutter application.
+Alcool ou gasolina - Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Desenvolvimento para aprendizado 
+- Calculo para saber se compensa usar alcool ou gasolina
 
-A few resources to get you started if this is your first Flutter project:
+### Images
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home4](https://user-images.githubusercontent.com/80997263/184211538-c4dca848-7593-4998-b293-300d53933e7e.jpeg)
+![preenchimento](https://user-images.githubusercontent.com/80997263/184211546-3f4ab2a2-4a12-45ce-bbe6-8fcdda88309a.jpeg)
+![resultado](https://user-images.githubusercontent.com/80997263/184211561-f78f22d6-4f05-4721-9d87-c5232c1b783e.jpeg)
